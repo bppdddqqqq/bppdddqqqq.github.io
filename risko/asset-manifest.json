@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/risko/static/css/main.a84d022f.chunk.css",
-    "main.js": "/risko/static/js/main.2b73c04f.chunk.js",
-    "main.js.map": "/risko/static/js/main.2b73c04f.chunk.js.map",
+    "main.css": "/risko/static/css/main.f14e21a1.chunk.css",
+    "main.js": "/risko/static/js/main.706f27d5.chunk.js",
+    "main.js.map": "/risko/static/js/main.706f27d5.chunk.js.map",
     "runtime-main.js": "/risko/static/js/runtime-main.15d29db3.js",
     "runtime-main.js.map": "/risko/static/js/runtime-main.15d29db3.js.map",
     "static/js/2.5c9ce42b.chunk.js": "/risko/static/js/2.5c9ce42b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.85971953.chunk.js": "/risko/static/js/3.85971953.chunk.js",
     "static/js/3.85971953.chunk.js.map": "/risko/static/js/3.85971953.chunk.js.map",
     "index.html": "/risko/index.html",
-    "static/css/main.a84d022f.chunk.css.map": "/risko/static/css/main.a84d022f.chunk.css.map",
+    "static/css/main.f14e21a1.chunk.css.map": "/risko/static/css/main.f14e21a1.chunk.css.map",
     "static/js/2.5c9ce42b.chunk.js.LICENSE.txt": "/risko/static/js/2.5c9ce42b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/risko/static/media/NeueHaasUnica-Bold.dbe92750.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.15d29db3.js",
     "static/js/2.5c9ce42b.chunk.js",
-    "static/css/main.a84d022f.chunk.css",
-    "static/js/main.2b73c04f.chunk.js"
+    "static/css/main.f14e21a1.chunk.css",
+    "static/js/main.706f27d5.chunk.js"
   ]
 }
